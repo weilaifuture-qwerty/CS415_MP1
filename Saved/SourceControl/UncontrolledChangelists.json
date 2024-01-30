@@ -7,7 +7,8 @@
 			"files": [
 				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
-				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap"
+				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
 			]
 		}
 	]
