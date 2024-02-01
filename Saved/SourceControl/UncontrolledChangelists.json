@@ -10,7 +10,10 @@
 				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
-				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Healthbar.uasset"
+				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Healthbar.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Score.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/healthpack.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/healpack.uasset"
 			]
 		}
 	]
